@@ -6,7 +6,6 @@ Akash Pinnaka's Group
 ## Group Members
 1. Akash Pinnaka (UFID: 10094703)
 2. Thilak Reddy Kanala (UFID: 88003203)
-3. Rida Malik Mubeen (UFID: 12299709)
 
 ## How To Use
 - Compile all source code: `javac PeerProcess.java`
